@@ -1,7 +1,11 @@
 body{
     background-color: #eb99ff;
 
-    background-image: url('../../images/barney2.jfif');
+    background-image: url(https://cdn.pixabay.com/photo/2016/05/24/16/48/mountains-1412683__340.png);
 
     background-size: cover;
+}
+
+nav{
+    border-style: double;
 }
