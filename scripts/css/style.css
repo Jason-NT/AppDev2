@@ -10,8 +10,21 @@ nav{
     border-style: double;
 }
 
-div{
+#purpose_div {
+    width: 30%;
+    height: auto;
+    border-radius: auto;
+    border-width: auto;
     border-style: solid;
-    border-right-style: dotted;
-    padding-right:initial;
+    border-color: #292929;
+    text-align: center;
+}
+
+#navi {
+    width: 8%;
+    height: auto;
+    border-radius: auto;
+    border-width: auto;
+    border-style: solid;
+    border-color: #292929;
 }
