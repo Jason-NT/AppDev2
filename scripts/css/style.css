@@ -9,3 +9,9 @@ body{
 nav{
     border-style: double;
 }
+
+div{
+    border-style: solid;
+    border-right-style: dotted;
+    padding-right:initial;
+}
