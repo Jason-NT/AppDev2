@@ -28,3 +28,25 @@ nav{
     border-style: solid;
     border-color: #292929;
 }
+
+#main_box {
+    border-style: dashed;
+    border-color: #292929;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    padding-bottom: auto;
+    background-color: #edcb91;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+#left_div {
+    text-align: left;
+}
+
+#right_div {
+    text-align: left;
+    align-content: left;
+}
