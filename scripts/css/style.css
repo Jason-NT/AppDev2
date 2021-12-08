@@ -35,18 +35,8 @@ nav{
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
+    padding-bottom: 20px;
     padding-bottom: auto;
     background-color: #edcb91;
-
-    display: flex;
-    justify-content: space-between;
 }
 
-#left_div {
-    text-align: left;
-}
-
-#right_div {
-    text-align: left;
-    align-content: left;
-}
