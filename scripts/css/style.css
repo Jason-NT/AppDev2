@@ -6,37 +6,72 @@ body{
     background-size: cover;
 }
 
-nav{
-    border-style: double;
+h1 {
+    text-decoration-line: underline
 }
 
 #purpose_div {
     width: 30%;
-    height: auto;
     border-radius: auto;
     border-width: auto;
     border-style: solid;
-    border-color: #292929;
+    background-color: #f7d9a5;
+    padding-bottom: 5%;
+    padding: 1% ;
     text-align: center;
+    margin-left: 650px;
 }
 
 #navi {
     width: 8%;
-    height: auto;
+    height: 14%;
     border-radius: auto;
     border-width: auto;
     border-style: solid;
     border-color: #292929;
+    background-color: lavender;
 }
 
 #main_box {
-    border-style: dashed;
+    border-style: double;
+    border-width: 4px;
     border-color: #292929;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
     text-align: center;
     padding-bottom: 20px;
     padding-bottom: auto;
-    background-color: #edcb91;
+    background-color: #f7d9a5;
+    padding-top: 5px;
 }
+
+#left_div {
+    border-style: solid;
+    margin-left: 22%;
+    width: 500px;
+    padding: 14px;
+    padding-bottom: 15%;
+    float: left;
+    background: lavender;
+}
+#right_div {
+    border-style: solid;
+    margin-left: 52.9%;
+    width: 500px;
+    padding: 14px;
+    padding-bottom: 15%;
+    background: lavender;
+
+}
+
+#top_div {
+    border-style: double;
+    width: fit-content;
+    text-align: center;
+    padding: 10px;
+    margin-left: 44%;
+    font-size: 20px;
+    background-color:#f7d9a5;
+}
+
 
