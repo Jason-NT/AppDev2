@@ -33,6 +33,28 @@ h1 {
     background-color: lavender;
 }
 
+#contact {
+    float: right;
+    margin-bottom: 8%;
+    margin-top: 8%;
+    margin-right: 4%;
+    border-style: solid;
+    padding: 1%;
+    height: 25%;
+    width: 10%;
+    text-align: center;
+    align-content: center;
+    background-color: aliceblue;
+}
+
+#inside_contact {
+    margin: 3%;
+    border-style: dotted;
+    border-radius: 5%;
+    height: 85%;
+    background-color: rgb(250, 253, 255);
+}
+
 #main_box {
     border-style: double;
     border-width: 4px;
@@ -107,7 +129,7 @@ h1 {
     float: right;
     border-style: solid;
     margin-right: 1%;
-    height: 40%;
+    height: 30%;
     padding-top: 2%;
     padding-left: 4%;
     padding-right: 4%;
@@ -118,28 +140,141 @@ h1 {
     float: left;
     margin-right: 75%;
     margin-left: 2%;
-    border-style: dotted;
+    border-style: solid;
     border-radius: 1%;
     background-color: aliceblue;
     padding: 1%;
-    margin-top: -10%;
+    margin-top: -6%;
     
 }
 #second_box {
     float: right;
-    margin-right: 45%;
+    margin-right: 35%;
     margin-left: 20%;
-    border-style: dotted;
+    border-style: solid;
     border-radius: 1%;
     background-color: aliceblue;
-    padding: 1%;
-    margin-top: -10%;
+    padding: .5%;
+    margin-top: -4%;
     background-size: cover;
 
 }
 
 #site_img {
-    height: 11.5%;
+    height: 30%;
     width: auto;
+    image-rendering:optimizeQuality;
+    
+}
+
+#third_box {
+    float: left;
+    margin-right: 75%;
+    margin-left: 2%;
+    border-style: solid;
+    border-radius: 1%;
+    background-color: aliceblue;
+    padding: 1%;
+    margin-top: -3%;
+}
+
+#fourth_box {
+    float: right;
+    margin-right: 38%;
+    margin-left: 23%;
+    border-style: solid;
+    border-radius: 1%;
+    background-color: aliceblue;
+    padding: .5%;
+    margin-top: -5%;
+    background-size: cover;
+}
+
+#ht_icon {
+    height: 18%;
+    width: auto;
+    float: left;
+}
+
+#final_before {
+    border-style: solid;
+    background-color: #f7d9a5;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 40%;
+    padding: 1.5%;
+    text-align: center;
+    font-size: large;
+}
+
+#first_after {
+    border-style:solid;
+    background-color:aliceblue;
+    margin-left: 2%;
+    margin-right: 75%;
+    padding: 1.5%;
+    float: left;
+}
+
+#second_after {
+    float: right;
+    margin-right: 15%;
+    margin-left: 20%;
+    border-style: solid;
+    border-radius: 1%;
+    background-color: aliceblue;
+    padding: .5%;
+    margin-bottom: 2%;
+    margin-top: -10;
+}
+
+#comp_img {
+    height: 30%;
+}
+
+#third_after {
+    border-style:solid;
+    background-color:aliceblue;
+    margin-left: 2%;
+    margin-right: 75%;
+    margin-top: -5%;
+    padding: 1.5%;
+    float: left;
+}
+
+#fourth_after {
+    float: left;
+    margin-left: 2%;
+    margin-right: 75%;
+    margin-top: 5%;
+    border-style: solid;
+    border-radius: 1%;
+    background-color: aliceblue;
+    padding: 1.5%;
+}
+
+#fifth_after {
+    border-style:solid;
+    background-color:aliceblue;
+    margin-left: 2%;
+    margin-right: 28%;
+    margin-top: -6%;
+    padding: .5%;
+    float: right;
+}
+
+#prev_example {
+    height: 30%;
+}
+
+#final_after {
+    border-style: double;
+    margin-left: 35%;
+    margin-right: 25%;
+    margin-top: 62%;
+    margin-bottom: 3%;
+    background-color: #f7d9a5;
+    padding: 1.5%;
+    text-align: center;
 }
 
